@@ -1,0 +1,5 @@
+{
+  "name": "Pro Channel Quiz Video Generator",
+  "description": "An interactive application that generates a complete, screen-recordable quiz video for a YouTube channel. It uses Gemini to create quiz content and provide audio narration for an engaging English learning experience.",
+  "requestFramePermissions": []
+}
